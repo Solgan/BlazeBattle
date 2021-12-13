@@ -8,7 +8,7 @@ exports.port = 8000;
 /**
  * The server Namr - Being used to rename custom-plugins.
  */
-exports.serverName = 'Server';
+exports.serverName = 'Blaze Battle';
 
 /**
 * The server IP - Being used to show avatars in profile.
@@ -104,7 +104,7 @@ exports.poof = true;
 exports.expTimer = 30000;
 
 // add system operators.
-exports.special = ['princesky'];
+exports.special = ['solganrex'];
 
 /**
  * crash guard - write errors to log file instead of crashing
